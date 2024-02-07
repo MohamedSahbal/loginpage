@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:projectone/categories_screen.dart';
 import 'package:projectone/login.dart';
 import 'package:projectone/product.dart';
 import 'package:projectone/settings.dart';
@@ -12,7 +13,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   int pageIndex = 0;
-  List<Widget> pages = [const ProductScreen(), const Text("categories"),const Settings()];
+  List<Widget> pages = [const ProductScreen(), const CategoriesScreen(),const Settings()];
   @override
   Widget build(BuildContext context) {
     return Scaffold(

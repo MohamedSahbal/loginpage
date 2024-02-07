@@ -24,7 +24,7 @@ class ProductItem extends StatelessWidget {
             Text(
               allproduct.title,
               maxLines: 1,
-              
+
             ),
             SizedBox(
               height: MediaQuery.of(context).size.height * 0.15,

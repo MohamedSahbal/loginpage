@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931675840758",
+    "project_id": "creativa-7e9cd",
+    "storage_bucket": "creativa-7e9cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931675840758:android:7d31dc24512cccf1264cd7",
+        "android_client_info": {
+          "package_name": "com.example.projectone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8cr_fP8jlhiQrfiOlO70cqwDQubVuV-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
